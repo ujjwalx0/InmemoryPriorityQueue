@@ -64,13 +64,6 @@ You can use Maven to run tests from the command line with:
   ```bash
   mvn package
 
-### Changes:
-1. **New Implementations**:
-   - Added explanations for the new `UpstashRedisPriorityQueueService.java` and `InMemoryPriorityQueueService.java`.
-   - Included both new queue services in the list of supported queue types.
 
-2. **General Updates**:
-   - Updated the **"Code Structure"** section to include the new classes.
-   - Clarified the purpose of **Upstash Redis** and **In-memory Priority Queue** services. 
 
-The rest of the documentation remains the same, ensuring clarity while expanding on the project's capabilities.
+This **README.md** now includes all the relevant sections, such as new queue implementations like Upstash Redis and InMemory Priority Queue, with the same structure as the previous README.
